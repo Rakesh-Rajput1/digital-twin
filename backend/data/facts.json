@@ -1,0 +1,21 @@
+{
+  "full_name": "Rakesh Rajput",
+  "name": "Ashish",
+  "current_role": "Data Scientist",
+  "location": "Mumbai, India",
+  "email": "rakeshrajputa55@gmail.com",
+  "linkedin": "linkedin.com/in/RakeshRajput1",
+  "specialties": [
+    "Your specialty 1",
+    "Your specialty 2",
+    "Your specialty 3"
+  ],
+  "years_experience": 10,
+  "education": [
+    {
+      "degree": "Your Degree",
+      "institution": "Your University",
+      "year": "2020"
+    }
+  ]
+}

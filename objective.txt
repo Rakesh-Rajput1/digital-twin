@@ -1,0 +1,1 @@
+Deploy ai model on aws using Terraform Configuration techniques 
